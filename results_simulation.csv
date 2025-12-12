@@ -1,0 +1,701 @@
+id,idade,vulnerabilidade,raiz_inicial,fruto_final,probabilidade_fruto
+176549130243635,18,2,Neurotipico,Depressao,0.3179
+176549130313346,28,1,Neurotipico,Transtorno Bipolar,0.2309
+176549130282746,1,2,TEA,TDAH (Comorbidade Cruzada),0.1452
+176549130320932,34,2,Baixo Peso ao Nascer,Problemas de Autoestima,0.2654
+176549130314646,5,5,Síndrome de Williams-Beuren,TOD,0.1927
+176549130329145,1,3,TDAH,TDAH (Comorbidade Cruzada),0.166
+176549130258116,1,4,Síndrome de Dawn,Problemas de Autoestima,0.3108
+176549130313777,1,2,Prematuridade,Transtorno Bipolar,0.2491
+176549130251820,1,1,TEA,Problemas de Autoestima,0.1983
+176549130303752,6,2,Dislexia,TOD,0.1815
+176549130295168,15,2,Síndrome de Kinnelfeter,Depressao,0.1906
+176549130265299,34,5,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.1816
+176549130316082,6,5,TDAH,TOD,0.188
+176549130310460,1,1,Síndrome de Dawn,Depressao,0.243
+176549130293807,4,4,Baixo Peso ao Nascer,TOD,0.2613
+176549130296274,7,1,Baixo Peso ao Nascer,Depressao,0.2249
+176549130295454,9,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2805
+176549130321986,31,2,Neurotipico,Depressao,0.1885
+176549130237580,1,3,Síndrome de Dawn,Problemas de Autoestima,0.2085
+176549130241542,5,4,Dislexia,Ansiedade Generalizada,0.2164
+176549130292514,4,1,TDAH,TDAH (Comorbidade Cruzada),0.1999
+176549130272351,32,5,Prematuridade,TDAH (Comorbidade Cruzada),0.2455
+176549130250169,15,1,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1486
+176549130236770,1,3,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.1384
+176549130294166,4,5,Síndrome de Williams-Beuren,Problemas de Autoestima,0.199
+176549130284005,9,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2367
+176549130275162,7,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2445
+176549130243407,8,4,Baixo Peso ao Nascer,Problemas de Autoestima,0.3035
+176549130321268,3,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.3242
+176549130239225,6,4,Dislexia,Ansiedade Social,0.2338
+176549130246251,29,3,Neurotipico,Burnout,0.2023
+176549130299013,18,4,Neurotipico,Ansiedade Generalizada,0.2461
+176549130266984,9,5,Prematuridade,TDAH (Comorbidade Cruzada),0.1781
+176549130312270,9,5,TDAH,TDAH (Comorbidade Cruzada),0.1968
+176549130240273,7,4,Dislexia,Transtorno Bipolar,0.2513
+176549130302564,5,1,TDAH,TOD,0.2123
+176549130318406,5,2,Neurotipico,Problemas de Autoestima,0.2756
+176549130295805,1,5,TDAH,TDAH (Comorbidade Cruzada),0.1486
+176549130283227,28,3,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.4305
+176549130328750,1,1,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2597
+176549130275971,1,1,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.1722
+176549130251354,1,2,Desenvolvimento neurobiológico atrasado,TOD,0.2633
+176549130255173,15,2,TDAH,TDAH (Comorbidade Cruzada),0.1783
+176549130274473,1,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2052
+176549130250836,24,5,Neurotipico,Problemas de Autoestima,0.3054
+176549130298691,23,1,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1972
+176549130233126,5,1,TDAH,TOD,0.1482
+176549130284218,1,1,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.1877
+176549130267967,2,5,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.1891
+176549130325257,1,2,Síndrome de Dawn,TOD,0.2973
+176549130279512,5,2,TEA,Problemas de Autoestima,0.137
+176549130266135,2,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.3044
+176549130325658,19,5,Prematuridade,TDAH (Comorbidade Cruzada),0.2523
+176549130267517,18,1,Síndrome de Kinnelfeter,Depressao,0.159
+176549130234258,11,3,Dislexia,TDAH (Comorbidade Cruzada),0.2654
+176549130282098,19,1,Baixo Peso ao Nascer,TOD,0.2287
+176549130260916,2,5,TEA,Problemas de Autoestima,0.1564
+176549130245868,24,1,Síndrome de Kinnelfeter,Ansiedade Social,0.1493
+176549130235542,1,5,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.282
+176549130269154,1,4,Síndrome de Dawn,Problemas de Autoestima,0.2583
+176549130305601,2,2,TDAH,TDAH (Comorbidade Cruzada),0.2117
+176549130332027,1,2,Síndrome de Dawn,TOC,0.2549
+176549130276446,1,4,Síndrome de Dawn,Ansiedade Generalizada,0.2518
+176549130264122,9,3,Síndrome de Kinnelfeter,Ansiedade Social,0.1628
+176549130328151,1,5,Desenvolvimento neurobiológico atrasado,Esquizofrenia,0.363
+176549130282257,19,5,Baixo Peso ao Nascer,Burnout,0.1725
+176549130263514,2,3,TEA,TDAH (Comorbidade Cruzada),0.1456
+176549130330503,17,3,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1365
+176549130324392,31,1,Prematuridade,Transtorno Bipolar,0.3078
+176549130257626,9,4,Altas Habilidades / Superdotação,Depressao,0.189
+176549130262047,1,1,Síndrome de Williams-Beuren,Problemas de Autoestima,0.1866
+176549130319999,34,5,Prematuridade,TDAH (Comorbidade Cruzada),0.2024
+176549130276572,1,1,TDAH,TDAH (Comorbidade Cruzada),0.164
+176549130264656,2,5,Prematuridade,Problemas de Autoestima,0.2295
+176549130292863,1,4,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.1936
+176549130311290,22,1,Prematuridade,TDAH (Comorbidade Cruzada),0.1482
+176549130323158,7,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2173
+176549130333226,1,1,TEA,Problemas de Autoestima,0.1714
+176549130260436,3,1,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2364
+176549130328805,16,4,TDAH,TDAH (Comorbidade Cruzada),0.1219
+176549130307286,1,5,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.1864
+176549130281229,10,3,Prematuridade,TDAH (Comorbidade Cruzada),0.184
+176549130259818,2,5,Baixo Peso ao Nascer,Ansiedade Social,0.2757
+176549130280066,1,4,Síndrome de Dawn,Depressao,0.2992
+176549130318271,28,5,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.3278
+176549130265577,8,2,TDAH,TDAH (Comorbidade Cruzada),0.149
+176549130288867,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2236
+176549130273805,7,3,TDAH,TOD,0.1788
+176549130282262,6,5,TEA,Problemas de Autoestima,0.1465
+176549130279324,16,1,Neurotipico,Ansiedade Generalizada,0.1923
+176549130265468,3,4,Neurotipico,TDAH (Comorbidade Cruzada),0.3191
+176549130236925,4,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2924
+176549130333843,5,1,Prematuridade,TDAH (Comorbidade Cruzada),0.3057
+176549130295297,2,2,Neurotipico,TDAH (Comorbidade Cruzada),0.2548
+176549130299541,18,1,Neurotipico,TDAH (Comorbidade Cruzada),0.3909
+176549130295934,22,5,Síndrome de Kinnelfeter,Esquizofrenia,0.2158
+176549130317690,1,4,Síndrome de Dawn,TOC,0.3193
+176549130270077,3,3,Baixo Peso ao Nascer,Esquizofrenia,0.2961
+176549130282567,14,3,Neurotipico,TDAH (Comorbidade Cruzada),0.1883
+176549130320564,2,2,Síndrome de Williams-Beuren,Problemas de Autoestima,0.2028
+176549130333796,3,2,Baixo Peso ao Nascer,Ansiedade Generalizada,0.2144
+176549130305259,4,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2171
+176549130322716,11,5,Síndrome de Kinnelfeter,Ansiedade Social,0.16
+176549130327863,12,3,Baixo Peso ao Nascer,Ansiedade Generalizada,0.2405
+176549130266065,2,2,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2105
+176549130280612,22,2,Neurotipico,TOC,0.3263
+176549130248794,3,2,TDAH,TDAH (Comorbidade Cruzada),0.2021
+176549130247870,1,2,TEA,Problemas de Autoestima,0.141
+176549130238355,3,4,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1817
+176549130308556,2,4,Neurotipico,TDAH (Comorbidade Cruzada),0.3076
+176549130254124,1,2,TEA,TDAH (Comorbidade Cruzada),0.15
+176549130290156,10,3,Síndrome de Kinnelfeter,Ansiedade Social,0.2087
+176549130306794,1,4,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1542
+176549130287519,4,1,Dislexia,Ansiedade Generalizada,0.2374
+176549130314297,5,2,TDAH,TOD,0.1653
+176549130298501,1,2,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.2203
+176549130269538,14,4,Neurotipico,Problemas de Autoestima,0.2116
+176549130324004,1,2,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.2671
+176549130297030,1,5,TEA,Problemas de Autoestima,0.157
+176549130277850,1,2,TEA,TDAH (Comorbidade Cruzada),0.1352
+176549130285621,4,5,TDAH,TDAH (Comorbidade Cruzada),0.1556
+176549130252658,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.2499
+176549130248120,7,5,TDAH,TOD,0.1616
+176549130244878,1,4,TEA,TDAH (Comorbidade Cruzada),0.1474
+176549130273377,2,2,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.1723
+176549130288527,34,3,Prematuridade,Transtorno Bipolar,0.2548
+176549130303150,1,2,Desenvolvimento neurobiológico atrasado,Transtorno Bipolar,0.2654
+176549130300908,2,2,Síndrome de Williams-Beuren,Problemas de Autoestima,0.2194
+176549130253386,1,1,Desenvolvimento neurobiológico atrasado,Depressao,0.2084
+176549130299009,2,1,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.2501
+176549130279650,11,5,Dislexia,TDAH (Comorbidade Cruzada),0.158
+176549130257318,11,4,Síndrome de Kinnelfeter,Depressao,0.2045
+176549130277659,11,3,Dislexia,Depressao,0.2013
+176549130322622,8,2,Síndrome de Williams-Beuren,Problemas de Autoestima,0.1868
+176549130258310,14,1,Neurotipico,Depressao,0.1892
+176549130247388,2,3,TEA,Problemas de Autoestima,0.1722
+176549130300068,1,5,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.2573
+176549130297364,32,2,Prematuridade,Transtorno Bipolar,0.2126
+176549130260834,1,3,Síndrome de Dawn,Ansiedade Social,0.2714
+176549130278206,1,2,TEA,Problemas de Autoestima,0.1723
+176549130325325,1,2,TDAH,TDAH (Comorbidade Cruzada),0.212
+176549130263625,26,3,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.322
+176549130291142,4,4,TDAH,TDAH (Comorbidade Cruzada),0.1936
+176549130284123,9,3,Neurotipico,Ansiedade Generalizada,0.2773
+176549130297680,18,4,Neurotipico,TOC,0.1909
+176549130276024,13,1,Neurotipico,Depressao,0.1954
+176549130267362,24,2,Neurotipico,Transtorno Bipolar,0.2086
+176549130250964,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.3201
+176549130268329,31,2,Baixo Peso ao Nascer,Problemas de Autoestima,0.1599
+176549130282041,16,3,Prematuridade,TOC,0.26
+176549130238940,12,2,Neurotipico,Problemas de Autoestima,0.2232
+176549130297437,15,3,Baixo Peso ao Nascer,Problemas de Autoestima,0.2022
+176549130334899,17,4,Baixo Peso ao Nascer,Ansiedade Social,0.2035
+176549130289679,1,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2637
+176549130266123,1,3,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.3875
+176549130278118,3,5,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.3162
+176549130320192,1,5,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.1927
+176549130301558,2,5,TDAH,TDAH (Comorbidade Cruzada),0.2392
+176549130264752,19,4,Síndrome de Kinnelfeter,Transtorno Bipolar,0.1573
+176549130283937,14,4,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1459
+176549130278103,22,4,Neurotipico,Esquizofrenia,0.4657
+176549130282594,4,4,Neurotipico,TDAH (Comorbidade Cruzada),0.265
+176549130324029,28,2,Neurotipico,TDAH (Comorbidade Cruzada),0.2173
+176549130323194,19,1,Neurotipico,TDAH (Comorbidade Cruzada),0.2877
+176549130253978,7,1,Dislexia,TDAH (Comorbidade Cruzada),0.1689
+176549130297963,18,3,Prematuridade,Transtorno Bipolar,0.3158
+176549130290187,1,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2155
+176549130262137,1,5,TEA,TDAH (Comorbidade Cruzada),0.1251
+176549130335864,9,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.1974
+176549130276674,6,3,TEA,Problemas de Autoestima,0.1347
+176549130296100,8,1,TDAH,TDAH (Comorbidade Cruzada),0.1575
+176549130284584,8,1,TDAH,TDAH (Comorbidade Cruzada),0.196
+176549130296858,8,2,Baixo Peso ao Nascer,Depressao,0.2228
+176549130282468,5,2,Altas Habilidades / Superdotação,Ansiedade Social,0.1789
+176549130324315,14,5,TDAH,TDAH (Comorbidade Cruzada),0.203
+176549130332662,33,2,Baixo Peso ao Nascer,Ansiedade Generalizada,0.321
+176549130273397,3,5,Baixo Peso ao Nascer,Esquizofrenia,0.3265
+176549130325101,6,4,Síndrome de Kinnelfeter,TOD,0.1527
+176549130331223,2,2,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.3264
+176549130243714,22,2,Síndrome de Kinnelfeter,Depressao,0.1529
+176549130293541,15,4,Prematuridade,Transtorno Bipolar,0.2992
+176549130305201,19,5,Baixo Peso ao Nascer,TOC,0.2851
+176549130332620,7,4,Neurotipico,Transtorno Bipolar,0.2423
+176549130254303,2,1,TEA,TDAH (Comorbidade Cruzada),0.1439
+176549130273572,10,4,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.2011
+176549130286295,13,3,Altas Habilidades / Superdotação,TOC,0.1775
+176549130287354,5,5,TEA,Ansiedade Generalizada,0.1527
+176549130276726,32,1,Neurotipico,Esquizofrenia,0.2502
+176549130298694,13,3,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1652
+176549130324332,3,3,Desenvolvimento neurobiológico atrasado,Depressao,0.3204
+176549130307819,5,3,TDAH,TOD,0.1891
+176549130291758,1,3,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.3141
+176549130253173,1,2,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.2554
+176549130336934,3,4,Altas Habilidades / Superdotação,Ansiedade Generalizada,0.2067
+176549130309119,1,4,TEA,Problemas de Autoestima,0.1592
+176549130301648,7,5,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.2139
+176549130320968,2,4,Altas Habilidades / Superdotação,Ansiedade Generalizada,0.2072
+176549130331861,1,1,Síndrome de Dawn,Transtorno Bipolar,0.2324
+176549130264963,3,1,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2389
+176549130287916,1,3,Desenvolvimento neurobiológico atrasado,Ansiedade Generalizada,0.2427
+176549130243687,11,4,Neurotipico,TDAH (Comorbidade Cruzada),0.1568
+176549130315956,3,1,Síndrome de Williams-Beuren,Problemas de Autoestima,0.1836
+176549130243690,10,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.1853
+176549130297834,22,4,Baixo Peso ao Nascer,Problemas de Autoestima,0.2741
+176549130293088,23,4,Neurotipico,Depressao,0.2271
+176549130269882,5,1,Neurotipico,TDAH (Comorbidade Cruzada),0.1924
+176549130318993,5,5,Neurotipico,Problemas de Autoestima,0.1775
+176549130317345,23,4,Síndrome de Kinnelfeter,Depressao,0.1564
+176549130250330,6,2,Dislexia,TOD,0.2311
+176549130331035,2,3,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1581
+176549130269006,6,5,Neurotipico,TDAH (Comorbidade Cruzada),0.2843
+176549130331239,1,3,TEA,Problemas de Autoestima,0.1717
+176549130279555,1,3,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.219
+176549130313151,11,1,TDAH,TDAH (Comorbidade Cruzada),0.1695
+176549130276336,5,2,TDAH,TOD,0.1918
+176549130284779,1,4,TEA,Problemas de Autoestima,0.1746
+176549130314661,7,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2412
+176549130241761,8,4,TEA,Ansiedade Generalizada,0.1326
+176549130298908,23,5,Neurotipico,TDAH (Comorbidade Cruzada),0.2548
+176549130317404,2,2,TDAH,TDAH (Comorbidade Cruzada),0.1695
+176549130305961,5,5,Neurotipico,Problemas de Autoestima,0.3512
+176549130305940,3,3,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2773
+176549130283321,1,5,TEA,Problemas de Autoestima,0.1816
+176549130327693,12,3,Altas Habilidades / Superdotação,TDAH (Comorbidade Cruzada),0.1731
+176549130269278,7,2,Neurotipico,Depressao,0.2329
+176549130289836,3,4,TDAH,TDAH (Comorbidade Cruzada),0.1808
+176549130294514,1,1,TEA,TDAH (Comorbidade Cruzada),0.1464
+176549130326922,10,5,TDAH,TDAH (Comorbidade Cruzada),0.1581
+176549130323856,1,2,TEA,Problemas de Autoestima,0.1735
+176549130337116,7,1,Prematuridade,Transtorno Bipolar,0.1579
+176549130268103,8,3,Baixo Peso ao Nascer,Transtorno Bipolar,0.2675
+176549130308239,3,1,Desenvolvimento neurobiológico atrasado,TOC,0.1984
+176549130284042,29,5,Neurotipico,Depressao,0.2171
+176549130273830,16,1,Síndrome de Kinnelfeter,Depressao,0.2051
+176549130321722,7,5,Dislexia,Ansiedade Generalizada,0.1657
+176549130257561,1,1,Síndrome de Dawn,Problemas de Autoestima,0.3293
+176549130266577,5,1,Altas Habilidades / Superdotação,Ansiedade Generalizada,0.1947
+176549130316806,1,3,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.264
+176549130310443,3,4,TEA,TDAH (Comorbidade Cruzada),0.1423
+176549130289847,2,4,Neurotipico,TOD,0.3982
+176549130335346,1,4,TEA,Problemas de Autoestima,0.1734
+176549130296251,1,3,TEA,TDAH (Comorbidade Cruzada),0.1543
+176549130242199,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2752
+176549130252998,12,1,Prematuridade,Ansiedade Generalizada,0.2077
+176549130250386,19,4,Síndrome de Kinnelfeter,TOC,0.1528
+176549130280302,4,5,Dislexia,Problemas de Autoestima,0.2198
+176549130298558,3,4,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.2102
+176549130303886,6,2,Desenvolvimento neurobiológico atrasado,Transtorno Bipolar,0.2132
+176549130293507,10,5,Síndrome de Kinnelfeter,Ansiedade Social,0.1436
+176549130242811,1,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2045
+176549130261591,17,2,Neurotipico,Transtorno Bipolar,0.2544
+176549130242270,8,2,TDAH,TDAH (Comorbidade Cruzada),0.1479
+176549130334952,6,5,Baixo Peso ao Nascer,Problemas de Autoestima,0.2858
+176549130250220,1,1,TEA,Problemas de Autoestima,0.1714
+176549130257346,5,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.1761
+176549130284588,3,4,Neurotipico,TDAH (Comorbidade Cruzada),0.3819
+176549130327011,5,3,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1615
+176549130277492,34,4,Neurotipico,TDAH (Comorbidade Cruzada),0.29
+176549130285389,19,2,Baixo Peso ao Nascer,Transtorno Bipolar,0.3403
+176549130249022,3,3,TDAH,TDAH (Comorbidade Cruzada),0.1462
+176549130319493,17,3,Prematuridade,TDAH (Comorbidade Cruzada),0.1995
+176549130290104,20,4,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.145
+176549130241251,1,2,Síndrome de Dawn,Esquizofrenia,0.3126
+176549130321915,8,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2135
+176549130323015,30,3,Prematuridade,TDAH (Comorbidade Cruzada),0.3345
+176549130331035,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.189
+176549130313700,12,3,Síndrome de Kinnelfeter,Depressao,0.2167
+176549130274467,5,4,Altas Habilidades / Superdotação,Problemas de Autoestima,0.1758
+176549130278172,4,2,Síndrome de Kinnelfeter,Problemas de Autoestima,0.2202
+176549130317820,1,3,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1979
+176549130259721,10,1,Baixo Peso ao Nascer,Problemas de Autoestima,0.1618
+176549130305812,24,1,Neurotipico,Transtorno Bipolar,0.2274
+176549130248497,1,5,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.4026
+176549130272208,2,4,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.3622
+176549130262663,1,1,TDAH,TDAH (Comorbidade Cruzada),0.1755
+176549130296447,1,2,TDAH,TDAH (Comorbidade Cruzada),0.1656
+176549130255448,1,1,TEA,TDAH (Comorbidade Cruzada),0.1597
+176549130275431,2,3,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.2513
+176549130306914,30,3,Baixo Peso ao Nascer,Depressao,0.2007
+176549130317742,10,5,Baixo Peso ao Nascer,Ansiedade Social,0.35
+176549130303699,35,2,Neurotipico,Depressao,0.3008
+176549130299292,2,4,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.1657
+176549130254834,29,4,Baixo Peso ao Nascer,Depressao,0.4383
+176549130336414,3,5,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2188
+176549130319766,10,2,Síndrome de Kinnelfeter,Ansiedade Social,0.1334
+176549130279268,32,5,Neurotipico,Problemas de Autoestima,0.2364
+176549130245354,12,3,Síndrome de Kinnelfeter,Depressao,0.2382
+176549130265492,11,2,Neurotipico,Ansiedade Social,0.26
+176549130296330,4,2,TEA,Problemas de Autoestima,0.1674
+176549130258687,30,5,Neurotipico,Esquizofrenia,0.3549
+176549130242512,9,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2073
+176549130341000,11,5,Prematuridade,TOC,0.1835
+176549130282311,3,1,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.249
+176549130326998,23,4,Baixo Peso ao Nascer,TOC,0.2119
+176549130303863,1,1,Síndrome de Dawn,Problemas de Autoestima,0.2166
+176549130316975,21,4,Prematuridade,Transtorno Bipolar,0.4714
+176549130260799,1,1,Desenvolvimento neurobiológico atrasado,Transtorno Bipolar,0.2312
+176549130319895,3,5,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.222
+176549130336648,5,3,TDAH,TOD,0.2142
+176549130288902,12,3,Prematuridade,Depressao,0.2021
+176549130293956,1,3,Desenvolvimento neurobiológico atrasado,TOC,0.2955
+176549130332428,10,4,Neurotipico,Depressao,0.3406
+176549130311813,10,4,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.2441
+176549130288225,5,3,TDAH,TDAH (Comorbidade Cruzada),0.1366
+176549130288264,29,1,Prematuridade,Transtorno Bipolar,0.2392
+176549130339311,7,5,Altas Habilidades / Superdotação,Ansiedade Generalizada,0.1366
+176549130259437,31,5,Baixo Peso ao Nascer,Transtorno Bipolar,0.2131
+176549130273101,29,5,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.2724
+176549130268501,4,3,Dislexia,Ansiedade Social,0.3165
+176549130296676,22,1,Neurotipico,Depressao,0.2735
+176549130334762,16,5,Síndrome de Kinnelfeter,Burnout,0.1912
+176549130272940,7,2,Neurotipico,TOD,0.2617
+176549130248931,10,1,TDAH,TDAH (Comorbidade Cruzada),0.1563
+176549130268423,30,4,Neurotipico,TDAH (Comorbidade Cruzada),0.3432
+176549130309437,1,5,Síndrome de Dawn,Ansiedade Social,0.3719
+176549130254249,1,1,TEA,TDAH (Comorbidade Cruzada),0.1604
+176549130302303,1,5,Altas Habilidades / Superdotação,TDAH (Comorbidade Cruzada),0.2117
+176549130255413,1,5,TEA,Problemas de Autoestima,0.1546
+176549130281749,3,4,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2508
+176549130270255,16,4,Prematuridade,Transtorno Bipolar,0.196
+176549130298455,10,1,Baixo Peso ao Nascer,Depressao,0.2541
+176549130264738,34,3,Neurotipico,TDAH (Comorbidade Cruzada),0.4272
+176549130271286,8,1,Neurotipico,TOC,0.1949
+176549130318047,23,5,Prematuridade,Transtorno Bipolar,0.2867
+176549130290397,5,3,Prematuridade,TOD,0.2502
+176549130278524,2,3,TEA,Problemas de Autoestima,0.1573
+176549130315832,4,4,TDAH,TDAH (Comorbidade Cruzada),0.1452
+176549130333191,10,1,Síndrome de Kinnelfeter,Ansiedade Social,0.1815
+176549130248905,9,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2295
+176549130247330,1,2,TDAH,TDAH (Comorbidade Cruzada),0.2456
+176549130330995,1,3,TEA,Problemas de Autoestima,0.1747
+176549130252209,3,2,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.3749
+176549130272913,1,4,Síndrome de Dawn,Problemas de Autoestima,0.2072
+176549130279528,18,5,Neurotipico,Esquizofrenia,0.1935
+176549130271911,4,3,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.2371
+176549130288120,1,5,TEA,Problemas de Autoestima,0.1409
+176549130329835,25,4,Neurotipico,TDAH (Comorbidade Cruzada),0.1889
+176549130278864,4,2,Síndrome de Kinnelfeter,Problemas de Autoestima,0.2357
+176549130257399,6,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2216
+176549130246413,1,1,Desenvolvimento neurobiológico atrasado,TOC,0.269
+176549130316849,17,2,Síndrome de Kinnelfeter,Transtorno Bipolar,0.2036
+176549130259220,20,1,Neurotipico,TDAH (Comorbidade Cruzada),0.3883
+176549130263195,1,4,Síndrome de Williams-Beuren,Problemas de Autoestima,0.2076
+176549130279427,3,3,TEA,Problemas de Autoestima,0.17
+176549130311901,4,2,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.2666
+176549130319850,13,3,Neurotipico,TOC,0.2167
+176549130337124,15,4,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1334
+176549130302335,6,3,Dislexia,TOD,0.1725
+176549130305108,1,2,Síndrome de Kinnelfeter,Problemas de Autoestima,0.2077
+176549130316258,27,4,Neurotipico,Depressao,0.3285
+176549130291784,26,3,Neurotipico,Depressao,0.3797
+176549130311044,8,4,Baixo Peso ao Nascer,Ansiedade Generalizada,0.2447
+176549130259642,30,5,Neurotipico,TDAH (Comorbidade Cruzada),0.389
+176549130305477,17,1,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1407
+176549130259485,6,2,Dislexia,Esquizofrenia,0.2348
+176549130326375,20,1,Baixo Peso ao Nascer,Depressao,0.2059
+176549130265264,8,4,Neurotipico,Ansiedade Generalizada,0.1638
+176549130313449,1,1,TEA,Problemas de Autoestima,0.1548
+176549130304866,1,3,Síndrome de Dawn,Ansiedade Generalizada,0.2639
+176549130325434,8,1,Neurotipico,Ansiedade Generalizada,0.1966
+176549130267049,9,1,Neurotipico,Ansiedade Social,0.2748
+176549130275629,3,4,TEA,Problemas de Autoestima,0.1595
+176549130341627,6,3,Síndrome de Kinnelfeter,Problemas de Autoestima,0.2173
+176549130318047,2,4,Prematuridade,TDAH (Comorbidade Cruzada),0.2102
+176549130327507,21,3,Neurotipico,TDAH (Comorbidade Cruzada),0.2466
+176549130330947,1,1,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.3097
+176549130289058,10,3,Dislexia,Ansiedade Social,0.1999
+176549130338061,6,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.177
+176549130335632,19,4,Neurotipico,Depressao,0.2732
+176549130331023,1,4,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.1724
+176549130254887,4,3,Síndrome de Williams-Beuren,TOD,0.2155
+176549130264093,11,1,Prematuridade,Ansiedade Generalizada,0.2276
+176549130342919,5,3,TEA,Problemas de Autoestima,0.15
+176549130304939,1,4,TEA,Problemas de Autoestima,0.1543
+176549130268568,5,1,Dislexia,TDAH (Comorbidade Cruzada),0.1998
+176549130253082,3,5,Desenvolvimento neurobiológico atrasado,TOD,0.2613
+176549130271196,10,5,TDAH,TDAH (Comorbidade Cruzada),0.1591
+176549130277438,1,3,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.19
+176549130333924,1,2,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.2029
+176549130253615,1,3,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.1697
+176549130305579,2,3,TDAH,TDAH (Comorbidade Cruzada),0.1819
+176549130321253,6,1,Dislexia,Problemas de Autoestima,0.2386
+176549130326275,1,3,TEA,Problemas de Autoestima,0.1572
+176549130313486,3,2,Prematuridade,Depressao,0.2755
+176549130298310,7,3,TDAH,TOD,0.1279
+176549130312182,5,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2558
+176549130337178,2,2,TEA,TDAH (Comorbidade Cruzada),0.1456
+176549130320453,6,5,Neurotipico,Ansiedade Generalizada,0.213
+176549130298566,7,2,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1533
+176549130316066,26,1,Neurotipico,TDAH (Comorbidade Cruzada),0.1898
+176549130261589,8,3,Dislexia,Ansiedade Generalizada,0.1536
+176549130308536,1,1,TDAH,TDAH (Comorbidade Cruzada),0.1854
+176549130310240,1,4,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.265
+176549130318268,1,2,Síndrome de Williams-Beuren,Depressao,0.2026
+176549130312595,1,5,TDAH,TDAH (Comorbidade Cruzada),0.2115
+176549130288210,22,5,Síndrome de Kinnelfeter,Esquizofrenia,0.1766
+176549130315100,1,3,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.2556
+176549130285351,3,1,Neurotipico,Problemas de Autoestima,0.2431
+176549130309514,8,3,Dislexia,Ansiedade Social,0.1787
+176549130306642,17,3,Neurotipico,Ansiedade Social,0.1837
+176549130306738,34,2,Neurotipico,TDAH (Comorbidade Cruzada),0.4598
+176549130300940,33,4,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.293
+176549130308141,21,2,Neurotipico,Burnout,0.2256
+176549130300187,3,5,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.2093
+176549130262128,28,2,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.3302
+176549130264387,11,5,Síndrome de Kinnelfeter,Ansiedade Social,0.2044
+176549130319102,3,3,TDAH,TDAH (Comorbidade Cruzada),0.1617
+176549130248163,29,3,Neurotipico,Esquizofrenia,0.303
+176549130252563,32,3,Neurotipico,Burnout,0.2929
+176549130247654,34,3,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.3675
+176549130276713,1,5,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.3507
+176549130251686,5,2,Dislexia,TOD,0.2889
+176549130317822,12,1,Síndrome de Kinnelfeter,Depressao,0.1959
+176549130313715,1,4,Neurotipico,Problemas de Autoestima,0.2002
+176549130291999,2,1,TEA,TDAH (Comorbidade Cruzada),0.1326
+176549130311935,3,5,Desenvolvimento neurobiológico atrasado,Transtorno Bipolar,0.292
+176549130337608,16,1,Síndrome de Kinnelfeter,Depressao,0.1973
+176549130279444,1,5,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2816
+176549130277637,1,1,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.2939
+176549130298367,5,3,TEA,Problemas de Autoestima,0.1663
+176549130322675,1,1,TDAH,TDAH (Comorbidade Cruzada),0.1788
+176549130322198,2,1,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1724
+176549130315379,29,5,Baixo Peso ao Nascer,Transtorno Bipolar,0.1869
+176549130282881,1,3,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.1739
+176549130344912,32,1,Prematuridade,Transtorno Bipolar,0.2677
+176549130271205,4,1,Dislexia,TDAH (Comorbidade Cruzada),0.1761
+176549130326740,1,2,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1963
+176549130339822,16,2,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.2877
+176549130265114,7,5,Baixo Peso ao Nascer,Depressao,0.3172
+176549130272666,4,3,TDAH,TDAH (Comorbidade Cruzada),0.162
+176549130303843,1,2,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2696
+176549130330130,2,2,Síndrome de Dawn,TOC,0.3143
+176549130261469,1,2,Desenvolvimento neurobiológico atrasado,TOC,0.2221
+176549130277734,35,5,Neurotipico,TDAH (Comorbidade Cruzada),0.4492
+176549130317668,12,4,Síndrome de Kinnelfeter,Depressao,0.2096
+176549130301412,32,3,Neurotipico,TDAH (Comorbidade Cruzada),0.4324
+176549130287520,1,4,TEA,Problemas de Autoestima,0.1554
+176549130299915,1,1,Síndrome de Williams-Beuren,TOD,0.2162
+176549130254912,1,2,Desenvolvimento neurobiológico atrasado,Depressao,0.2825
+176549130303674,5,5,TEA,Problemas de Autoestima,0.1371
+176549130333290,11,5,TDAH,Depressao,0.1427
+176549130289850,1,1,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1882
+176549130257572,1,2,Desenvolvimento neurobiológico atrasado,Transtorno Bipolar,0.3373
+176549130313001,2,3,Desenvolvimento neurobiológico atrasado,Ansiedade Generalizada,0.2926
+176549130338079,1,4,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2051
+176549130306568,1,1,Altas Habilidades / Superdotação,Ansiedade Generalizada,0.1802
+176549130307135,20,2,Neurotipico,Transtorno Bipolar,0.3103
+176549130322500,1,4,TEA,Problemas de Autoestima,0.1735
+176549130285347,28,2,Neurotipico,Esquizofrenia,0.3035
+176549130284002,11,2,Síndrome de Kinnelfeter,Depressao,0.1521
+176549130281086,1,3,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.1702
+176549130272251,13,2,Neurotipico,TOC,0.2161
+176549130285089,1,1,TEA,TDAH (Comorbidade Cruzada),0.1465
+176549130298492,8,2,Prematuridade,Ansiedade Generalizada,0.1995
+176549130342668,5,2,TEA,Problemas de Autoestima,0.1491
+176549130288728,4,3,TEA,TDAH (Comorbidade Cruzada),0.1298
+176549130257809,15,1,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.2105
+176549130332604,13,2,Altas Habilidades / Superdotação,Depressao,0.1917
+176549130287961,7,5,Prematuridade,Esquizofrenia,0.2114
+176549130251658,10,2,TDAH,TDAH (Comorbidade Cruzada),0.1417
+176549130326214,1,5,Síndrome de Williams-Beuren,Problemas de Autoestima,0.2046
+176549130309128,1,2,TEA,TDAH (Comorbidade Cruzada),0.16
+176549130280593,15,2,Prematuridade,Transtorno Bipolar,0.2145
+176549130279698,8,1,Dislexia,Ansiedade Social,0.2509
+176549130258883,8,2,Baixo Peso ao Nascer,TOC,0.266
+176549130340357,7,2,Neurotipico,Depressao,0.3031
+176549130264178,15,3,TDAH,TDAH (Comorbidade Cruzada),0.1442
+176549130269716,13,2,Prematuridade,Depressao,0.2818
+176549130265769,10,1,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1677
+176549130264955,11,4,Neurotipico,TDAH (Comorbidade Cruzada),0.1853
+176549130330671,34,2,Neurotipico,TDAH (Comorbidade Cruzada),0.2657
+176549130313202,12,2,Síndrome de Kinnelfeter,Depressao,0.1332
+176549130343357,35,5,Neurotipico,TDAH (Comorbidade Cruzada),0.432
+176549130256420,6,1,TDAH,TOD,0.1899
+176549130256085,14,3,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.1569
+176549130267831,18,4,Neurotipico,TDAH (Comorbidade Cruzada),0.4196
+176549130315615,2,4,Desenvolvimento neurobiológico atrasado,Ansiedade Generalizada,0.2443
+176549130328313,7,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.232
+176549130309232,18,3,Prematuridade,TOC,0.257
+176549130292559,28,3,Baixo Peso ao Nascer,Ansiedade Social,0.1621
+176549130281837,9,4,Neurotipico,Ansiedade Social,0.2754
+176549130336098,1,1,Síndrome de Dawn,Transtorno Bipolar,0.2549
+176549130338156,1,2,Desenvolvimento neurobiológico atrasado,TOC,0.2529
+176549130268468,19,1,Síndrome de Kinnelfeter,Problemas de Autoestima,0.1912
+176549130254726,2,2,TEA,TDAH (Comorbidade Cruzada),0.165
+176549130332680,3,3,TDAH,TDAH (Comorbidade Cruzada),0.1914
+176549130266840,2,1,TEA,Problemas de Autoestima,0.1609
+176549130346518,10,5,Dislexia,Ansiedade Social,0.1581
+176549130273532,7,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.211
+176549130340842,4,2,TEA,Problemas de Autoestima,0.1199
+176549130266397,1,1,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.3442
+176549130346701,11,1,Altas Habilidades / Superdotação,TDAH (Comorbidade Cruzada),0.1381
+176549130292574,1,5,TEA,Problemas de Autoestima,0.1419
+176549130317375,6,3,TDAH,TOD,0.1495
+176549130307767,10,3,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1311
+176549130310604,34,5,Prematuridade,Depressao,0.3361
+176549130297262,9,1,Baixo Peso ao Nascer,TOD,0.2356
+176549130254059,7,4,Síndrome de Kinnelfeter,Problemas de Autoestima,0.1631
+176549130328548,16,3,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1543
+176549130333485,1,5,Altas Habilidades / Superdotação,Problemas de Autoestima,0.2137
+176549130347224,3,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2081
+176549130323374,6,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2558
+176549130263241,1,1,TEA,Problemas de Autoestima,0.1407
+176549130274250,2,3,Síndrome de Kinnelfeter,Problemas de Autoestima,0.1763
+176549130267666,1,3,TEA,Problemas de Autoestima,0.1756
+176549130273324,6,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2173
+176549130309256,18,3,Síndrome de Kinnelfeter,Esquizofrenia,0.1656
+176549130322676,12,5,Síndrome de Kinnelfeter,Depressao,0.1695
+176549130312257,24,3,Neurotipico,Depressao,0.2352
+176549130299322,17,1,Prematuridade,Transtorno Bipolar,0.2763
+176549130256786,8,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2492
+176549130301987,1,1,Síndrome de Dawn,Problemas de Autoestima,0.1909
+176549130289599,2,4,Neurotipico,Problemas de Autoestima,0.2702
+176549130273570,8,4,TDAH,TDAH (Comorbidade Cruzada),0.1772
+176549130350423,5,1,Neurotipico,Depressao,0.2515
+176549130287943,5,2,TEA,Problemas de Autoestima,0.1627
+176549130297073,1,5,TEA,Problemas de Autoestima,0.1427
+176549130265589,6,2,Dislexia,TDAH (Comorbidade Cruzada),0.1658
+176549130252132,1,1,Desenvolvimento neurobiológico atrasado,TOD,0.2693
+176549130303417,9,1,Baixo Peso ao Nascer,Depressao,0.2539
+176549130288697,4,4,Neurotipico,TDAH (Comorbidade Cruzada),0.1942
+176549130314867,3,1,TEA,Problemas de Autoestima,0.1536
+176549130259467,1,4,Desenvolvimento neurobiológico atrasado,Transtorno Bipolar,0.3469
+176549130342113,4,5,Neurotipico,Problemas de Autoestima,0.1866
+176549130269850,8,1,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1424
+176549130253994,17,5,Prematuridade,Depressao,0.2664
+176549130344806,10,3,Dislexia,Ansiedade Social,0.2034
+176549130285316,12,1,Prematuridade,Depressao,0.2003
+176549130288524,20,5,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.2498
+176549130350661,3,3,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.1896
+176549130319171,19,1,Síndrome de Kinnelfeter,Depressao,0.2073
+176549130269810,35,5,Neurotipico,TDAH (Comorbidade Cruzada),0.2657
+176549130266513,2,3,Síndrome de Kinnelfeter,Problemas de Autoestima,0.2208
+176549130336785,1,4,Desenvolvimento neurobiológico atrasado,TOC,0.3266
+176549130253448,18,2,Neurotipico,TDAH (Comorbidade Cruzada),0.177
+176549130299664,4,3,Dislexia,Problemas de Autoestima,0.2005
+176549130333629,5,5,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.2333
+176549130280786,1,2,Síndrome de Dawn,Ansiedade Generalizada,0.2865
+176549130327036,1,5,TDAH,TDAH (Comorbidade Cruzada),0.1853
+176549130286690,24,4,Síndrome de Kinnelfeter,Esquizofrenia,0.1486
+176549130309054,15,4,Síndrome de Kinnelfeter,Depressao,0.1989
+176549130319197,2,4,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.166
+176549130319664,1,4,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.2238
+176549130334226,1,3,Síndrome de Kinnelfeter,Problemas de Autoestima,0.2422
+176549130317495,21,3,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.1802
+176549130274050,24,1,Prematuridade,Transtorno Bipolar,0.2147
+176549130291303,18,2,Neurotipico,TOC,0.2715
+176549130337820,7,2,Dislexia,Ansiedade Generalizada,0.2382
+176549130290794,1,3,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.2014
+176549130280371,4,1,Dislexia,Depressao,0.2256
+176549130258207,8,2,TDAH,TDAH (Comorbidade Cruzada),0.1337
+176549130282418,11,5,Síndrome de Kinnelfeter,Depressao,0.1615
+176549130266505,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2025
+176549130337417,7,5,TDAH,TOD,0.1464
+176549130318771,2,2,Baixo Peso ao Nascer,TOC,0.3112
+176549130274903,11,2,TDAH,Depressao,0.1443
+176549130338700,10,4,Síndrome de Kinnelfeter,Ansiedade Social,0.231
+176549130307313,16,1,Neurotipico,Depressao,0.2752
+176549130338860,29,2,Neurotipico,TDAH (Comorbidade Cruzada),0.3489
+176549130290159,10,5,Dislexia,Transtorno Bipolar,0.2458
+176549130271538,9,3,TDAH,TDAH (Comorbidade Cruzada),0.1581
+176549130292894,1,2,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.1735
+176549130253988,25,3,Neurotipico,Ansiedade Social,0.3808
+176549130340577,1,4,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.3829
+176549130302642,1,4,TEA,TDAH (Comorbidade Cruzada),0.1463
+176549130255430,1,4,Síndrome de Dawn,Depressao,0.2811
+176549130308896,17,3,Síndrome de Kinnelfeter,Transtorno Bipolar,0.1722
+176549130323291,18,2,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1798
+176549130335670,11,2,TDAH,TDAH (Comorbidade Cruzada),0.1621
+176549130277305,8,3,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.2095
+176549130319683,6,2,Neurotipico,Problemas de Autoestima,0.2314
+176549130338102,4,2,Síndrome de Kinnelfeter,Problemas de Autoestima,0.2683
+176549130332157,6,5,Baixo Peso ao Nascer,TOD,0.2555
+176549130310873,9,1,Dislexia,TDAH (Comorbidade Cruzada),0.1637
+176549130265528,1,2,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.1918
+176549130284464,16,4,Síndrome de Kinnelfeter,TOC,0.1772
+176549130253616,2,2,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.2426
+176549130274350,1,4,Desenvolvimento neurobiológico atrasado,Depressao,0.2805
+176549130294996,6,2,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.2497
+176549130310583,17,5,Síndrome de Kinnelfeter,Depressao,0.2093
+176549130266554,22,2,Neurotipico,Burnout,0.2219
+176549130285244,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2237
+176549130342326,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2951
+176549130322859,7,1,Altas Habilidades / Superdotação,Ansiedade Generalizada,0.1706
+176549130272137,2,4,Desenvolvimento neurobiológico atrasado,Ansiedade Generalizada,0.2315
+176549130261404,7,4,Dislexia,Ansiedade Generalizada,0.2125
+176549130288483,3,4,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.1677
+176549130341881,7,1,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.2444
+176549130302598,14,2,Prematuridade,Depressao,0.1758
+176549130258835,20,5,Neurotipico,Esquizofrenia,0.3237
+176549130262476,8,1,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2082
+176549130261798,5,4,TDAH,Problemas de Autoestima,0.1494
+176549130320022,20,2,Prematuridade,Transtorno Bipolar,0.1841
+176549130258191,3,2,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.2897
+176549130336963,2,1,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2481
+176549130257669,2,2,Desenvolvimento neurobiológico atrasado,Ansiedade Social,0.3345
+176549130323644,13,2,Neurotipico,Ansiedade Social,0.2653
+176549130274544,20,3,Síndrome de Kinnelfeter,Depressao,0.1609
+176549130310025,3,3,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.1821
+176549130278805,35,4,Prematuridade,Depressao,0.2307
+176549130294144,9,2,Síndrome de Kinnelfeter,Ansiedade Social,0.1338
+176549130348277,1,3,Síndrome de Dawn,Ansiedade Social,0.2914
+176549130306748,1,1,Síndrome de Dawn,TOD,0.2971
+176549130261855,13,2,Baixo Peso ao Nascer,Ansiedade Generalizada,0.2216
+176549130290650,3,3,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.2199
+176549130322908,1,2,Síndrome de Williams-Beuren,TOC,0.195
+176549130308007,5,2,Síndrome de Kinnelfeter,Problemas de Autoestima,0.2362
+176549130325891,1,3,Síndrome de Williams-Beuren,Problemas de Autoestima,0.1693
+176549130265459,13,4,TDAH,TDAH (Comorbidade Cruzada),0.1369
+176549130336928,14,4,TDAH,TOC,0.1313
+176549130301159,5,2,TEA,Problemas de Autoestima,0.1657
+176549130350494,1,5,Síndrome de Dawn,Ansiedade Generalizada,0.3155
+176549130262207,1,3,Síndrome de Dawn,Esquizofrenia,0.339
+176549130339726,1,2,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.3252
+176549130278857,16,5,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.133
+176549130343662,1,2,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.3554
+176549130316573,34,1,Neurotipico,TOC,0.3827
+176549130324966,22,5,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.2583
+176549130262848,6,3,Prematuridade,Esquizofrenia,0.2094
+176549130256814,26,3,Neurotipico,TDAH (Comorbidade Cruzada),0.3004
+176549130270722,2,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2569
+176549130267230,1,4,Desenvolvimento neurobiológico atrasado,Ansiedade Social,0.1875
+176549130283754,14,4,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1857
+176549130316635,28,2,Baixo Peso ao Nascer,Depressao,0.3108
+176549130299984,7,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2928
+176549130261932,1,4,Síndrome de Dawn,Problemas de Autoestima,0.219
+176549130319088,4,1,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.2109
+176549130304256,3,5,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.2848
+176549130308882,33,3,Prematuridade,Transtorno Bipolar,0.3319
+176549130259005,4,3,Desenvolvimento neurobiológico atrasado,Ansiedade Generalizada,0.2449
+176549130257844,4,3,Baixo Peso ao Nascer,Transtorno Bipolar,0.2356
+176549130274946,14,4,Neurotipico,Transtorno Bipolar,0.279
+176549130303746,1,2,Prematuridade,Transtorno Bipolar,0.2698
+176549130265611,21,5,Prematuridade,Transtorno Bipolar,0.2441
+176549130337721,8,5,TDAH,TDAH (Comorbidade Cruzada),0.1798
+176549130257338,5,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2976
+176549130307644,5,3,Dislexia,TDAH (Comorbidade Cruzada),0.1825
+176549130276693,7,4,Neurotipico,Ansiedade Social,0.2198
+176549130288168,10,2,Baixo Peso ao Nascer,TDAH (Comorbidade Cruzada),0.1499
+176549130288426,1,2,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.413
+176549130352264,8,1,TDAH,TDAH (Comorbidade Cruzada),0.201
+176549130342318,1,3,TEA,Problemas de Autoestima,0.1568
+176549130276622,11,4,Baixo Peso ao Nascer,Problemas de Autoestima,0.2334
+176549130301939,9,2,TDAH,TDAH (Comorbidade Cruzada),0.1462
+176549130267728,1,1,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.2665
+176549130351613,1,4,TEA,Problemas de Autoestima,0.1721
+176549130279497,5,5,TDAH,TOD,0.1386
+176549130296957,1,1,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.2474
+176549130337824,24,3,Neurotipico,TDAH (Comorbidade Cruzada),0.1905
+176549130269255,13,4,Neurotipico,Ansiedade Social,0.333
+176549130299475,1,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.3106
+176549130308195,4,5,Neurotipico,Problemas de Autoestima,0.2714
+176549130303108,1,5,Síndrome de Williams-Beuren,TDAH (Comorbidade Cruzada),0.152
+176549130271289,1,3,Síndrome de Dawn,Problemas de Autoestima,0.1843
+176549130277083,8,3,Altas Habilidades / Superdotação,Ansiedade Generalizada,0.1591
+176549130349491,33,4,Neurotipico,Ansiedade Generalizada,0.2831
+176549130259660,21,3,Prematuridade,Transtorno Bipolar,0.1641
+176549130300489,1,2,Síndrome de Dawn,Transtorno Bipolar,0.3171
+176549130280671,33,2,Neurotipico,Ansiedade Social,0.2596
+176549130323418,13,2,Síndrome de Kinnelfeter,TDAH (Comorbidade Cruzada),0.1619
+176549130313092,21,2,Neurotipico,Transtorno Bipolar,0.449
+176549130342600,1,4,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.319
+176549130267576,23,5,Neurotipico,TOC,0.2765
+176549130355935,6,1,Prematuridade,Depressao,0.1906
+176549130327934,1,4,TEA,Problemas de Autoestima,0.1553
+176549130311543,7,1,Altas Habilidades / Superdotação,Ansiedade Generalizada,0.216
+176549130309139,2,2,TEA,Problemas de Autoestima,0.1739
+176549130320827,4,2,TEA,Problemas de Autoestima,0.1739
+176549130310713,1,1,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.1906
+176549130307669,16,1,Síndrome de Kinnelfeter,Depressao,0.1696
+176549130266098,27,5,Neurotipico,TOD,0.3861
+176549130258039,1,4,Desenvolvimento neurobiológico atrasado,Problemas de Autoestima,0.1531
+176549130337710,8,3,Neurotipico,Transtorno Bipolar,0.2095
+176549130307706,8,4,Baixo Peso ao Nascer,TOD,0.2048
+176549130311259,3,1,TEA,Problemas de Autoestima,0.1615
+176549130346295,5,2,Dislexia,TDAH (Comorbidade Cruzada),0.159
+176549130345850,11,4,Neurotipico,Depressao,0.2471
+176549130354325,6,5,Síndrome de Kinnelfeter,Problemas de Autoestima,0.2183
+176549130319945,4,3,TDAH,TDAH (Comorbidade Cruzada),0.1763
+176549130343416,35,1,Prematuridade,TDAH (Comorbidade Cruzada),0.2064
+176549130351323,1,2,Síndrome de Dawn,TOD,0.2881
+176549130305176,1,5,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.1706
+176549130262689,1,1,Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.2412
+176549130322075,14,4,Altas Habilidades / Superdotação,Depressao,0.1851
+176549130283246,9,1,Neurotipico,Problemas de Autoestima,0.1837
+176549130277741,1,2,TEA,Problemas de Autoestima,0.1742
+176549130299537,35,4,Baixo Peso ao Nascer,Ansiedade Social,0.2666
+176549130296715,5,5,Dislexia,Ansiedade Social,0.2709
+176549130332283,6,3,Dislexia,TOD,0.2164
+176549130318128,1,5,TEA,TDAH (Comorbidade Cruzada),0.1353
+176549130264249,1,2,Desenvolvimento neurobiológico atrasado,TDAH (Comorbidade Cruzada),0.2706
+176549130341471,14,5,Altas Habilidades / Superdotação,TOC,0.2317
+176549130304268,7,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.1857
+176549130270393,1,5,Desenvolvimento neurobiológico atrasado,Depressao,0.2855
+176549130277200,18,5,Neurotipico,Transtorno Bipolar,0.1907
+176549130291060,7,3,Altas Habilidades / Superdotação,Ansiedade Generalizada,0.1941
+176549130277503,6,2,TEA,Problemas de Autoestima,0.1468
+176549130278865,5,5,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2123
+176549130274791,10,4,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2447
+176549130259074,1,2,Síndrome de Williams-Beuren,Ansiedade Generalizada,0.2298

@@ -1,0 +1,24 @@
+Nó_Principal,Nome_Nó,Valor,Tipo,Prior_Mod_Idade,Detalhes
+RAIZ,SUJEITO,1.0,Sujeito,,Idade: 12 | Vuln: 3
+SUJEITO,Neurotipico,0.0,Raiz,0.180946519508096,Score de Risco
+SUJEITO,TEA,0.0,Raiz,0.0180946519508096,Score de Risco
+SUJEITO,TDAH,0.0,Raiz,0.05874473401820913,Score de Risco
+SUJEITO,Síndrome de Williams-Beuren,0.0,Raiz,0.0180946519508096,Score de Risco
+SUJEITO,Síndrome de Dawn,0.0,Raiz,0.0180946519508096,Score de Risco
+SUJEITO,Síndrome de Kinnelfeter,0.0,Raiz,0.17116807349440616,Score de Risco
+SUJEITO,Dislexia,0.0,Raiz,0.04511941430990785,Score de Risco
+SUJEITO,Altas Habilidades / Superdotação,0.0,Raiz,0.10974961184995037,Score de Risco
+SUJEITO,Prematuridade,0.0,Raiz,0.180946519508096,Score de Risco
+SUJEITO,Baixo Peso ao Nascer,0.0,Raiz,0.180946519508096,Score de Risco
+SUJEITO,Desenvolvimento neurobiológico atrasado,0.0,Raiz,0.0180946519508096,Score de Risco
+Síndrome de Dawn,Depressao,0.11256028946895358,Fruto,,"Queda persistente de humor, anedonia e desesperança."
+Síndrome de Dawn,Ansiedade Generalizada,0.08322594185486466,Fruto,,Preocupação excessiva e incontrolável sobre diversos eventos.
+Síndrome de Dawn,Ansiedade Social,0.09989431358013338,Fruto,,Medo intenso de julgamento em situações sociais.
+Síndrome de Dawn,Burnout,0.16373332155913398,Fruto,,Exaustão física e mental ligada a demandas de desempenho.
+Síndrome de Dawn,Problemas de Autoestima,0.21445783321593126,Fruto,,Visão negativa persistente sobre si mesmo.
+Síndrome de Dawn,TOC,0.10424538421960614,Fruto,,Obsessões e compulsões que consomem tempo.
+Síndrome de Dawn,TOD,0.040218461377013084,Fruto,,Padrão persistente de comportamento desafiador e hostil.
+Síndrome de Dawn,Transtorno Bipolar,0.04932241337404082,Fruto,,Alternância entre episódios depressivos e maníacos/hipomaníacos.
+Síndrome de Dawn,Esquizofrenia,0.019781751881369564,Fruto,,Perda de contato com a realidade (psicose).
+Síndrome de Dawn,TDAH (Comorbidade Cruzada),0.11256028946895358,Fruto,,Persistência ou agravamento dos sintomas de TDAH na vida adulta.
+CAMINHO_SELECIONADO,Síndrome de Dawn,,Metadado,Problemas de Autoestima,Raiz Foco | Maior Fruto
